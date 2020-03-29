@@ -1,0 +1,1290 @@
+{
+  "Application": {
+    "Screens": [
+      {
+        "Components": [
+          {
+            "Components": [
+              {
+                "Components": [
+                  {
+                    "Color": {
+                      "Red": 223,
+                      "Green": 242,
+                      "Blue": 239
+                    },
+                    "Alpha": 255,
+                    "Name": "box1",
+                    "X": 0,
+                    "Y": 0,
+                    "Width": 480,
+                    "Height": 272,
+                    "Type": "Box",
+                    "Visible": true,
+                    "Draggable": false,
+                    "Clickable": false,
+                    "Fadeable": false,
+                    "Moveable": false
+                  },
+                  {
+                    "Pressed": "__designer\\Blue_Buttons_Round_small_pressed.png",
+                    "Released": "__designer\\Blue_Buttons_Round_small.png",
+                    "Alpha": 255,
+                    "TextId": "SingleUseId21",
+                    "ReleasedColor": {
+                      "Red": 255,
+                      "Green": 255,
+                      "Blue": 255
+                    },
+                    "PressedColor": {
+                      "Red": 255,
+                      "Green": 255,
+                      "Blue": 255
+                    },
+                    "TextRotation": "0",
+                    "Name": "buttonWithLabel3",
+                    "X": 282,
+                    "Y": 188,
+                    "Width": 170,
+                    "Height": 60,
+                    "Type": "ButtonWithLabel",
+                    "Visible": true,
+                    "Draggable": false,
+                    "Clickable": false,
+                    "Fadeable": false,
+                    "Moveable": false
+                  },
+                  {
+                    "TextId": "SingleUseId17",
+                    "TextRotation": "0",
+                    "Color": {
+                      "Red": 0,
+                      "Green": 0,
+                      "Blue": 0
+                    },
+                    "Alpha": 255,
+                    "AutoSize": true,
+                    "LineSpacing": 0,
+                    "Name": "textArea1_1",
+                    "X": 34,
+                    "Y": 133,
+                    "Width": 213,
+                    "Height": 28,
+                    "Type": "TextArea",
+                    "Visible": true,
+                    "Draggable": false,
+                    "Clickable": false,
+                    "Fadeable": false,
+                    "Moveable": false
+                  },
+                  {
+                    "TextId": "SingleUseId16",
+                    "TextRotation": "0",
+                    "Color": {
+                      "Red": 0,
+                      "Green": 0,
+                      "Blue": 0
+                    },
+                    "Alpha": 255,
+                    "AutoSize": true,
+                    "LineSpacing": 0,
+                    "Name": "textArea1",
+                    "X": 74,
+                    "Y": 71,
+                    "Width": 173,
+                    "Height": 28,
+                    "Type": "TextArea",
+                    "Visible": true,
+                    "Draggable": false,
+                    "Clickable": false,
+                    "Fadeable": false,
+                    "Moveable": false
+                  },
+                  {
+                    "NumberOfDecimals": 0,
+                    "TextId": "SingleUseId15",
+                    "Color": {
+                      "Red": 0,
+                      "Green": 0,
+                      "Blue": 0
+                    },
+                    "Alpha": 255,
+                    "Style": "Style3",
+                    "FileNameBackground": "__designer\\Blue_ProgressIndicators_bg_medium_text_progress_bg_square.png",
+                    "IndicatorPositionX": 0,
+                    "IndicatorPositionY": 0,
+                    "IndicatorPositionWidth": 84,
+                    "IndicatorPositionHeight": 34,
+                    "ProgressRangeMin": 0,
+                    "ProgressRangeMax": 100,
+                    "ProgressRangeSteps": 0,
+                    "ProgressRangeStepsMin": 0,
+                    "ProgressInitialValue": 20,
+                    "Name": "textProgress_freq",
+                    "X": 324,
+                    "Y": 133,
+                    "Width": 84,
+                    "Height": 34,
+                    "Type": "TextProgress",
+                    "Visible": true,
+                    "Draggable": false,
+                    "Clickable": false,
+                    "Fadeable": false,
+                    "Moveable": false
+                  },
+                  {
+                    "Pressed": "__designer\\Blue_Buttons_Round_icon_button_pressed.png",
+                    "Released": "__designer\\Blue_Buttons_Round_icon_button.png",
+                    "Alpha": 255,
+                    "TextId": "SingleUseId14",
+                    "ReleasedColor": {
+                      "Red": 255,
+                      "Green": 255,
+                      "Blue": 255
+                    },
+                    "PressedColor": {
+                      "Red": 255,
+                      "Green": 255,
+                      "Blue": 255
+                    },
+                    "TextRotation": "0",
+                    "Style": "Style5",
+                    "Name": "buttonDecrementFreq",
+                    "X": 266,
+                    "Y": 120,
+                    "Width": 60,
+                    "Height": 60,
+                    "Type": "ButtonWithLabel",
+                    "Visible": true,
+                    "Draggable": false,
+                    "Clickable": false,
+                    "Fadeable": false,
+                    "Moveable": false
+                  },
+                  {
+                    "Pressed": "__designer\\Blue_Buttons_Round_icon_button_pressed.png",
+                    "Released": "__designer\\Blue_Buttons_Round_icon_button.png",
+                    "Alpha": 255,
+                    "TextId": "SingleUseId13",
+                    "ReleasedColor": {
+                      "Red": 255,
+                      "Green": 255,
+                      "Blue": 255
+                    },
+                    "PressedColor": {
+                      "Red": 255,
+                      "Green": 255,
+                      "Blue": 255
+                    },
+                    "TextRotation": "0",
+                    "Style": "Style5",
+                    "Name": "buttonIncrementFreq",
+                    "X": 408,
+                    "Y": 120,
+                    "Width": 60,
+                    "Height": 60,
+                    "Type": "ButtonWithLabel",
+                    "Visible": true,
+                    "Draggable": false,
+                    "Clickable": false,
+                    "Fadeable": false,
+                    "Moveable": false
+                  },
+                  {
+                    "NumberOfDecimals": 0,
+                    "TextId": "SingleUseId12",
+                    "Color": {
+                      "Red": 0,
+                      "Green": 0,
+                      "Blue": 0
+                    },
+                    "Alpha": 255,
+                    "Style": "Style3",
+                    "FileNameBackground": "__designer\\Blue_ProgressIndicators_bg_medium_text_progress_bg_square.png",
+                    "IndicatorPositionX": 0,
+                    "IndicatorPositionY": 0,
+                    "IndicatorPositionWidth": 84,
+                    "IndicatorPositionHeight": 34,
+                    "ProgressRangeMin": 0,
+                    "ProgressRangeMax": 100,
+                    "ProgressRangeSteps": 0,
+                    "ProgressRangeStepsMin": 0,
+                    "ProgressInitialValue": 5,
+                    "Name": "textProgress_peep",
+                    "X": 326,
+                    "Y": 71,
+                    "Width": 84,
+                    "Height": 34,
+                    "Type": "TextProgress",
+                    "Visible": true,
+                    "Draggable": false,
+                    "Clickable": true,
+                    "Fadeable": false,
+                    "Moveable": false
+                  },
+                  {
+                    "Pressed": "__designer\\Blue_Buttons_Round_icon_button_pressed.png",
+                    "Released": "__designer\\Blue_Buttons_Round_icon_button.png",
+                    "Alpha": 255,
+                    "TextId": "SingleUseId11",
+                    "ReleasedColor": {
+                      "Red": 255,
+                      "Green": 255,
+                      "Blue": 255
+                    },
+                    "PressedColor": {
+                      "Red": 255,
+                      "Green": 255,
+                      "Blue": 255
+                    },
+                    "TextRotation": "0",
+                    "Style": "Style5",
+                    "Name": "buttonDecrementPEEP",
+                    "X": 266,
+                    "Y": 58,
+                    "Width": 60,
+                    "Height": 60,
+                    "Type": "ButtonWithLabel",
+                    "Visible": true,
+                    "Draggable": false,
+                    "Clickable": false,
+                    "Fadeable": false,
+                    "Moveable": false
+                  },
+                  {
+                    "Pressed": "__designer\\Blue_Buttons_Round_icon_button_pressed.png",
+                    "Released": "__designer\\Blue_Buttons_Round_icon_button.png",
+                    "Alpha": 255,
+                    "TextId": "SingleUseId10",
+                    "ReleasedColor": {
+                      "Red": 255,
+                      "Green": 255,
+                      "Blue": 255
+                    },
+                    "PressedColor": {
+                      "Red": 255,
+                      "Green": 255,
+                      "Blue": 255
+                    },
+                    "TextRotation": "0",
+                    "Style": "Style5",
+                    "Name": "buttonIncrementPEEP",
+                    "X": 410,
+                    "Y": 58,
+                    "Width": 60,
+                    "Height": 60,
+                    "Type": "ButtonWithLabel",
+                    "Visible": true,
+                    "Draggable": false,
+                    "Clickable": false,
+                    "Fadeable": false,
+                    "Moveable": false
+                  },
+                  {
+                    "Color": {
+                      "Red": 49,
+                      "Green": 61,
+                      "Blue": 79
+                    },
+                    "Alpha": 255,
+                    "Name": "box2",
+                    "X": 0,
+                    "Y": 0,
+                    "Width": 480,
+                    "Height": 40,
+                    "Type": "Box",
+                    "Visible": true,
+                    "Draggable": false,
+                    "Clickable": false,
+                    "Fadeable": false,
+                    "Moveable": false
+                  },
+                  {
+                    "Color": {
+                      "Red": 49,
+                      "Green": 61,
+                      "Blue": 79
+                    },
+                    "Alpha": 255,
+                    "Name": "box2_2",
+                    "X": 0,
+                    "Y": 0,
+                    "Width": 480,
+                    "Height": 40,
+                    "Type": "Box",
+                    "Visible": true,
+                    "Draggable": false,
+                    "Clickable": false,
+                    "Fadeable": false,
+                    "Moveable": false
+                  },
+                  {
+                    "TextId": "SingleUseId18",
+                    "TextRotation": "0",
+                    "Color": {
+                      "Red": 176,
+                      "Green": 172,
+                      "Blue": 172
+                    },
+                    "Alpha": 255,
+                    "AutoSize": true,
+                    "LineSpacing": 0,
+                    "Name": "textArea2",
+                    "X": 34,
+                    "Y": 9,
+                    "Width": 62,
+                    "Height": 19,
+                    "Type": "TextArea",
+                    "Visible": true,
+                    "Draggable": false,
+                    "Clickable": false,
+                    "Fadeable": false,
+                    "Moveable": false
+                  },
+                  {
+                    "Filename": "__designer\\Dark_Icons_Settings_32.png",
+                    "Alpha": 255,
+                    "ScalingAlgorithm": "Nearest-neighbor",
+                    "Name": "scalableImage1",
+                    "X": 9,
+                    "Y": 11,
+                    "Width": 17,
+                    "Height": 17,
+                    "Type": "ScalableImage",
+                    "Visible": true,
+                    "Draggable": false,
+                    "Clickable": false,
+                    "Fadeable": false,
+                    "Moveable": false
+                  }
+                ],
+                "IsCacheableContainer": false,
+                "Name": "swipeContainer1Page2",
+                "X": 0,
+                "Y": 0,
+                "Width": 480,
+                "Height": 272,
+                "Type": "Container",
+                "Visible": true,
+                "Draggable": false,
+                "Clickable": false,
+                "Fadeable": false,
+                "Moveable": false
+              },
+              {
+                "Components": [
+                  {
+                    "Color": {
+                      "Red": 223,
+                      "Green": 242,
+                      "Blue": 239
+                    },
+                    "Alpha": 255,
+                    "Name": "box1_1",
+                    "X": 0,
+                    "Y": 0,
+                    "Width": 480,
+                    "Height": 272,
+                    "Type": "Box",
+                    "Visible": true,
+                    "Draggable": false,
+                    "Clickable": false,
+                    "Fadeable": false,
+                    "Moveable": false
+                  },
+                  {
+                    "Color": {
+                      "Red": 49,
+                      "Green": 61,
+                      "Blue": 79
+                    },
+                    "Alpha": 255,
+                    "Name": "box2_1",
+                    "X": 0,
+                    "Y": 0,
+                    "Width": 480,
+                    "Height": 40,
+                    "Type": "Box",
+                    "Visible": true,
+                    "Draggable": false,
+                    "Clickable": false,
+                    "Fadeable": false,
+                    "Moveable": false
+                  },
+                  {
+                    "TextId": "SingleUseId19",
+                    "TextRotation": "0",
+                    "Color": {
+                      "Red": 176,
+                      "Green": 172,
+                      "Blue": 172
+                    },
+                    "Alpha": 255,
+                    "AutoSize": true,
+                    "LineSpacing": 0,
+                    "Name": "textArea2_1",
+                    "X": 34,
+                    "Y": 10,
+                    "Width": 90,
+                    "Height": 19,
+                    "Type": "TextArea",
+                    "Visible": true,
+                    "Draggable": false,
+                    "Clickable": false,
+                    "Fadeable": false,
+                    "Moveable": false
+                  },
+                  {
+                    "Filename": "__designer\\Dark_Icons_Alert_32.png",
+                    "Alpha": 255,
+                    "ScalingAlgorithm": "Nearest-neighbor",
+                    "Name": "scalableImage1_1",
+                    "X": 9,
+                    "Y": 11,
+                    "Width": 17,
+                    "Height": 17,
+                    "Type": "ScalableImage",
+                    "Visible": true,
+                    "Draggable": false,
+                    "Clickable": false,
+                    "Fadeable": false,
+                    "Moveable": false
+                  },
+                  {
+                    "Filename": "img_225476.png",
+                    "Alpha": 255,
+                    "ScalingAlgorithm": "Nearest-neighbor",
+                    "Name": "scalableImage2",
+                    "X": 26,
+                    "Y": 68,
+                    "Width": 70,
+                    "Height": 65,
+                    "Type": "ScalableImage",
+                    "Visible": true,
+                    "Draggable": false,
+                    "Clickable": false,
+                    "Fadeable": false,
+                    "Moveable": false
+                  },
+                  {
+                    "RelativeFilename": "KLTxksHb.png",
+                    "Alpha": 255,
+                    "Name": "image1",
+                    "X": 160,
+                    "Y": 82,
+                    "Width": 240,
+                    "Height": 106,
+                    "Type": "Image",
+                    "Visible": true,
+                    "Draggable": false,
+                    "Clickable": false,
+                    "Fadeable": false,
+                    "Moveable": false
+                  }
+                ],
+                "IsCacheableContainer": false,
+                "Name": "swipeContainer1Page3",
+                "X": 0,
+                "Y": 0,
+                "Width": 480,
+                "Height": 272,
+                "Type": "Container",
+                "Visible": true,
+                "Draggable": false,
+                "Clickable": false,
+                "Fadeable": false,
+                "Moveable": false
+              }
+            ],
+            "SwipeCutoff": 50,
+            "ShowPageIndicator": true,
+            "PageIndicatorX": 225,
+            "PageIndicatorY": 248,
+            "CenteredX": true,
+            "IndicatorImageNormal": "__designer\\Blue_PageIndicator_dot_indicator_small_normal.png",
+            "IndicatorImageHighlight": "__designer\\Blue_PageIndicator_dot_indicator_small_highlight.png",
+            "EndSwipeElasticWidth": 50,
+            "SelectedPage": "swipeContainer1Page3",
+            "Style": "Style1",
+            "IsCacheableContainer": false,
+            "Name": "swipeContainer1",
+            "X": 0,
+            "Y": 0,
+            "Width": 480,
+            "Height": 272,
+            "Type": "SwipeContainer",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "Components": [
+              {
+                "Pressed": "__designer\\Blue_Buttons_Round_Edge_small_pressed.png",
+                "Released": "__designer\\Blue_Buttons_Round_Edge_small.png",
+                "Alpha": 255,
+                "TextId": "SingleUseId22",
+                "ReleasedColor": {
+                  "Red": 255,
+                  "Green": 255,
+                  "Blue": 255
+                },
+                "PressedColor": {
+                  "Red": 255,
+                  "Green": 255,
+                  "Blue": 255
+                },
+                "TextRotation": "0",
+                "Style": "Style4",
+                "Name": "buttonWithLabel4",
+                "X": 14,
+                "Y": 112,
+                "Width": 170,
+                "Height": 60,
+                "Type": "ButtonWithLabel",
+                "Visible": true,
+                "Draggable": false,
+                "Clickable": false,
+                "Fadeable": false,
+                "Moveable": false
+              },
+              {
+                "Pressed": "__designer\\Blue_Buttons_Round_Edge_small_pressed.png",
+                "Released": "__designer\\Blue_Buttons_Round_Edge_small.png",
+                "Alpha": 255,
+                "TextId": "SingleUseId23",
+                "ReleasedColor": {
+                  "Red": 255,
+                  "Green": 255,
+                  "Blue": 255
+                },
+                "PressedColor": {
+                  "Red": 255,
+                  "Green": 255,
+                  "Blue": 255
+                },
+                "TextRotation": "0",
+                "Style": "Style4",
+                "Name": "buttonWithLabel4_1",
+                "X": 250,
+                "Y": 112,
+                "Width": 170,
+                "Height": 60,
+                "Type": "ButtonWithLabel",
+                "Visible": true,
+                "Draggable": false,
+                "Clickable": false,
+                "Fadeable": false,
+                "Moveable": false
+              },
+              {
+                "TextId": "SingleUseId24",
+                "TextRotation": "0",
+                "Color": {
+                  "Red": 0,
+                  "Green": 0,
+                  "Blue": 0
+                },
+                "Alpha": 255,
+                "AutoSize": true,
+                "LineSpacing": 0,
+                "Name": "textArea3",
+                "X": 18,
+                "Y": 6,
+                "Width": 400,
+                "Height": 19,
+                "Type": "TextArea",
+                "Visible": true,
+                "Draggable": false,
+                "Clickable": false,
+                "Fadeable": false,
+                "Moveable": false
+              },
+              {
+                "TextId": "SingleUseId25",
+                "TextRotation": "0",
+                "Color": {
+                  "Red": 0,
+                  "Green": 0,
+                  "Blue": 0
+                },
+                "Alpha": 255,
+                "AutoSize": false,
+                "LineSpacing": 0,
+                "Wildcard1": {
+                  "TextId": "SingleUseId27",
+                  "UseBuffer": true,
+                  "BufferSize": 10
+                },
+                "Name": "textArea1_2",
+                "X": 18,
+                "Y": 43,
+                "Width": 203,
+                "Height": 21,
+                "Type": "TextArea",
+                "Visible": true,
+                "Draggable": false,
+                "Clickable": false,
+                "Fadeable": false,
+                "Moveable": false
+              },
+              {
+                "TextId": "SingleUseId26",
+                "TextRotation": "0",
+                "Color": {
+                  "Red": 0,
+                  "Green": 0,
+                  "Blue": 0
+                },
+                "Alpha": 255,
+                "AutoSize": false,
+                "LineSpacing": 0,
+                "Wildcard1": {
+                  "TextId": "SingleUseId28",
+                  "UseBuffer": true,
+                  "BufferSize": 10
+                },
+                "Name": "textArea1_1_1",
+                "X": 18,
+                "Y": 73,
+                "Width": 231,
+                "Height": 28,
+                "Type": "TextArea",
+                "Visible": true,
+                "Draggable": false,
+                "Clickable": false,
+                "Fadeable": false,
+                "Moveable": false
+              }
+            ],
+            "FileName": "__designer\\Blue_TextFields_text_field_full_480x272px.png",
+            "Color": {
+              "Red": 0,
+              "Green": 0,
+              "Blue": 0
+            },
+            "ModalX": 22,
+            "ModalY": 46,
+            "ModalWidth": 436,
+            "ModalHeight": 180,
+            "ContX": 0,
+            "ContY": 0,
+            "Alpha": 150,
+            "Name": "modalWindow1",
+            "X": 0,
+            "Y": 0,
+            "Width": 480,
+            "Height": 272,
+            "Type": "ModalWindow",
+            "Visible": false,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          }
+        ],
+        "Interactions": [
+          {
+            "InteractionName": "Interaction2",
+            "HasCompletedTrigger": false,
+            "Trigger": {
+              "TriggerComponent": "buttonWithLabel3",
+              "Type": "TriggerClicked"
+            },
+            "Action": {
+              "ActionComponent": "modalWindow1",
+              "Type": "ActionShow"
+            }
+          },
+          {
+            "InteractionName": "Interaction3",
+            "HasCompletedTrigger": false,
+            "Trigger": {
+              "TriggerComponent": "buttonWithLabel4",
+              "Type": "TriggerClicked"
+            },
+            "Action": {
+              "ActionComponent": "modalWindow1",
+              "Type": "ActionHide"
+            }
+          },
+          {
+            "InteractionName": "Interaction4",
+            "HasCompletedTrigger": false,
+            "Trigger": {
+              "TriggerComponent": "buttonWithLabel4_1",
+              "Type": "TriggerClicked"
+            },
+            "Action": {
+              "ActionComponent": "modalWindow1",
+              "Type": "ActionHide"
+            }
+          },
+          {
+            "InteractionName": "Interaction5",
+            "HasCompletedTrigger": false,
+            "Trigger": {
+              "TriggerComponent": "buttonIncrementPEEP",
+              "Type": "TriggerClicked"
+            },
+            "Action": {
+              "FunctionName": "incrementPEEP",
+              "Type": "ActionCustom"
+            }
+          },
+          {
+            "InteractionName": "Interaction6",
+            "HasCompletedTrigger": false,
+            "Trigger": {
+              "TriggerComponent": "buttonDecrementPEEP",
+              "Type": "TriggerClicked"
+            },
+            "Action": {
+              "FunctionName": "decrementPEEP",
+              "Type": "ActionCustom"
+            }
+          },
+          {
+            "InteractionName": "Interaction7",
+            "HasCompletedTrigger": false,
+            "Trigger": {
+              "TriggerComponent": "buttonIncrementFreq",
+              "Type": "TriggerClicked"
+            },
+            "Action": {
+              "FunctionName": "incrementFreq",
+              "Type": "ActionCustom"
+            }
+          },
+          {
+            "InteractionName": "Interaction8",
+            "HasCompletedTrigger": false,
+            "Trigger": {
+              "TriggerComponent": "buttonDecrementFreq",
+              "Type": "TriggerClicked"
+            },
+            "Action": {
+              "FunctionName": "decrementFreq",
+              "Type": "ActionCustom"
+            }
+          }
+        ],
+        "Name": "Screen2",
+        "OverrideDefaultBufferSize": false,
+        "CanvasBufferSize": 0
+      }
+    ],
+    "CustomContainerDefinitions": [
+      {
+        "Components": [
+          {
+            "Components": [
+              {
+                "Components": [],
+                "IsCacheableContainer": false,
+                "Name": "swipeContainer1Page3",
+                "X": 0,
+                "Y": 0,
+                "Width": 480,
+                "Height": 272,
+                "Type": "Container",
+                "Visible": true,
+                "Draggable": false,
+                "Clickable": false,
+                "Fadeable": false,
+                "Moveable": false
+              },
+              {
+                "Components": [
+                  {
+                    "TextId": "SingleUseId8",
+                    "TextRotation": "0",
+                    "Color": {
+                      "Red": 0,
+                      "Green": 0,
+                      "Blue": 0
+                    },
+                    "Alpha": 255,
+                    "AutoSize": true,
+                    "LineSpacing": 0,
+                    "Name": "textArea3_1_1",
+                    "X": 399,
+                    "Y": 88,
+                    "Width": 33,
+                    "Height": 49,
+                    "Type": "TextArea",
+                    "Visible": true,
+                    "Draggable": false,
+                    "Clickable": false,
+                    "Fadeable": false,
+                    "Moveable": false
+                  },
+                  {
+                    "TextId": "SingleUseId7",
+                    "TextRotation": "0",
+                    "Color": {
+                      "Red": 0,
+                      "Green": 0,
+                      "Blue": 0
+                    },
+                    "Alpha": 255,
+                    "AutoSize": true,
+                    "LineSpacing": 0,
+                    "Name": "textArea3_2",
+                    "X": 292,
+                    "Y": 89,
+                    "Width": 18,
+                    "Height": 49,
+                    "Type": "TextArea",
+                    "Visible": true,
+                    "Draggable": false,
+                    "Clickable": false,
+                    "Fadeable": false,
+                    "Moveable": false
+                  },
+                  {
+                    "Pressed": "__designer\\Blue_Buttons_Round_icon_button_pressed.png",
+                    "Released": "__designer\\Blue_Buttons_Round_icon_button.png",
+                    "Alpha": 255,
+                    "Name": "button1_1_1",
+                    "X": 385,
+                    "Y": 85,
+                    "Width": 60,
+                    "Height": 60,
+                    "Type": "Button",
+                    "Visible": true,
+                    "Draggable": false,
+                    "Clickable": false,
+                    "Fadeable": false,
+                    "Moveable": false
+                  },
+                  {
+                    "Pressed": "__designer\\Blue_Buttons_Round_icon_button_pressed.png",
+                    "Released": "__designer\\Blue_Buttons_Round_icon_button.png",
+                    "Alpha": 255,
+                    "Name": "button1_2",
+                    "X": 271,
+                    "Y": 85,
+                    "Width": 60,
+                    "Height": 60,
+                    "Type": "Button",
+                    "Visible": true,
+                    "Draggable": false,
+                    "Clickable": false,
+                    "Fadeable": false,
+                    "Moveable": false
+                  },
+                  {
+                    "NumberOfDecimals": 0,
+                    "TextId": "SingleUseId6",
+                    "Color": {
+                      "Red": 0,
+                      "Green": 0,
+                      "Blue": 0
+                    },
+                    "Alpha": 255,
+                    "Style": "Style2",
+                    "FileNameBackground": "__designer\\Blue_ProgressIndicators_bg_small_text_progress_bg_round.png",
+                    "IndicatorPositionX": 0,
+                    "IndicatorPositionY": 0,
+                    "IndicatorPositionWidth": 54,
+                    "IndicatorPositionHeight": 20,
+                    "ProgressRangeMin": 0,
+                    "ProgressRangeMax": 100,
+                    "ProgressRangeSteps": 0,
+                    "ProgressRangeStepsMin": 0,
+                    "ProgressInitialValue": 20,
+                    "Name": "textProgress1_1",
+                    "X": 331,
+                    "Y": 105,
+                    "Width": 54,
+                    "Height": 20,
+                    "Type": "TextProgress",
+                    "Visible": true,
+                    "Draggable": false,
+                    "Clickable": false,
+                    "Fadeable": false,
+                    "Moveable": false
+                  },
+                  {
+                    "TextId": "SingleUseId5",
+                    "TextRotation": "0",
+                    "Color": {
+                      "Red": 0,
+                      "Green": 0,
+                      "Blue": 0
+                    },
+                    "Alpha": 255,
+                    "AutoSize": true,
+                    "LineSpacing": 0,
+                    "Name": "textArea3_1",
+                    "X": 399,
+                    "Y": 25,
+                    "Width": 33,
+                    "Height": 49,
+                    "Type": "TextArea",
+                    "Visible": true,
+                    "Draggable": false,
+                    "Clickable": false,
+                    "Fadeable": false,
+                    "Moveable": false
+                  },
+                  {
+                    "TextId": "SingleUseId4",
+                    "TextRotation": "0",
+                    "Color": {
+                      "Red": 0,
+                      "Green": 0,
+                      "Blue": 0
+                    },
+                    "Alpha": 255,
+                    "AutoSize": true,
+                    "LineSpacing": 0,
+                    "Name": "textArea3",
+                    "X": 292,
+                    "Y": 26,
+                    "Width": 18,
+                    "Height": 49,
+                    "Type": "TextArea",
+                    "Visible": true,
+                    "Draggable": false,
+                    "Clickable": false,
+                    "Fadeable": false,
+                    "Moveable": false
+                  },
+                  {
+                    "Pressed": "__designer\\Blue_Buttons_Round_icon_button_pressed.png",
+                    "Released": "__designer\\Blue_Buttons_Round_icon_button.png",
+                    "Alpha": 255,
+                    "Name": "button1_1",
+                    "X": 385,
+                    "Y": 22,
+                    "Width": 60,
+                    "Height": 60,
+                    "Type": "Button",
+                    "Visible": true,
+                    "Draggable": false,
+                    "Clickable": false,
+                    "Fadeable": false,
+                    "Moveable": false
+                  },
+                  {
+                    "Pressed": "__designer\\Blue_Buttons_Round_icon_button_pressed.png",
+                    "Released": "__designer\\Blue_Buttons_Round_icon_button.png",
+                    "Alpha": 255,
+                    "Name": "button1",
+                    "X": 271,
+                    "Y": 22,
+                    "Width": 60,
+                    "Height": 60,
+                    "Type": "Button",
+                    "Visible": true,
+                    "Draggable": false,
+                    "Clickable": false,
+                    "Fadeable": false,
+                    "Moveable": false
+                  },
+                  {
+                    "NumberOfDecimals": 0,
+                    "TextId": "SingleUseId3",
+                    "Color": {
+                      "Red": 0,
+                      "Green": 0,
+                      "Blue": 0
+                    },
+                    "Alpha": 255,
+                    "Style": "Style1",
+                    "FileNameBackground": "__designer\\Blue_ProgressIndicators_bg_small_text_progress_bg_square.png",
+                    "IndicatorPositionX": 0,
+                    "IndicatorPositionY": 0,
+                    "IndicatorPositionWidth": 54,
+                    "IndicatorPositionHeight": 20,
+                    "ProgressRangeMin": 0,
+                    "ProgressRangeMax": 100,
+                    "ProgressRangeSteps": 0,
+                    "ProgressRangeStepsMin": 0,
+                    "ProgressInitialValue": 5,
+                    "Name": "textProgress1",
+                    "X": 331,
+                    "Y": 40,
+                    "Width": 54,
+                    "Height": 20,
+                    "Type": "TextProgress",
+                    "Visible": true,
+                    "Draggable": false,
+                    "Clickable": false,
+                    "Fadeable": false,
+                    "Moveable": false
+                  },
+                  {
+                    "TextId": "SingleUseId2",
+                    "TextRotation": "0",
+                    "Color": {
+                      "Red": 0,
+                      "Green": 0,
+                      "Blue": 0
+                    },
+                    "Alpha": 255,
+                    "AutoSize": true,
+                    "LineSpacing": 0,
+                    "Name": "textArea2",
+                    "X": 33,
+                    "Y": 99,
+                    "Width": 285,
+                    "Height": 37,
+                    "Type": "TextArea",
+                    "Visible": true,
+                    "Draggable": false,
+                    "Clickable": false,
+                    "Fadeable": false,
+                    "Moveable": false
+                  },
+                  {
+                    "TextId": "SingleUseId1",
+                    "TextRotation": "0",
+                    "Color": {
+                      "Red": 0,
+                      "Green": 0,
+                      "Blue": 0
+                    },
+                    "Alpha": 255,
+                    "AutoSize": true,
+                    "LineSpacing": 0,
+                    "Name": "textArea1",
+                    "X": 31,
+                    "Y": 40,
+                    "Width": 231,
+                    "Height": 37,
+                    "Type": "TextArea",
+                    "Visible": true,
+                    "Draggable": false,
+                    "Clickable": false,
+                    "Fadeable": false,
+                    "Moveable": false
+                  }
+                ],
+                "IsCacheableContainer": false,
+                "Name": "swipeContainer1Page1",
+                "X": 0,
+                "Y": 0,
+                "Width": 480,
+                "Height": 272,
+                "Type": "Container",
+                "Visible": true,
+                "Draggable": false,
+                "Clickable": false,
+                "Fadeable": false,
+                "Moveable": false
+              }
+            ],
+            "SwipeCutoff": 50,
+            "ShowPageIndicator": true,
+            "PageIndicatorX": 225,
+            "PageIndicatorY": 252,
+            "CenteredX": true,
+            "IndicatorImageNormal": "__designer\\Blue_PageIndicator_dot_indicator_small_normal.png",
+            "IndicatorImageHighlight": "__designer\\Blue_PageIndicator_dot_indicator_small_highlight.png",
+            "EndSwipeElasticWidth": 50,
+            "SelectedPage": "swipeContainer1Page3",
+            "Style": "Style1",
+            "IsCacheableContainer": false,
+            "Name": "swipeContainer1",
+            "X": 0,
+            "Y": 0,
+            "Width": 480,
+            "Height": 272,
+            "Type": "SwipeContainer",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          }
+        ],
+        "Interactions": [
+          {
+            "InteractionName": "Interaction1",
+            "HasCompletedTrigger": false,
+            "Trigger": {
+              "Type": "TriggerNone"
+            },
+            "Action": {
+              "Type": "ActionNone"
+            }
+          }
+        ],
+        "CustomTriggers": [
+          {
+            "Name": "trigger1",
+            "HasValue": false
+          }
+        ],
+        "CustomActions": [
+          {
+            "Name": "action1",
+            "Description": "+",
+            "HasValue": false
+          }
+        ],
+        "Name": "CustomContainer1",
+        "X": 0,
+        "Y": 0,
+        "Width": 480,
+        "Height": 272
+      }
+    ],
+    "TextEntries": [
+      {
+        "TextEntryId": "SingleUseId1",
+        "IsResource": false
+      },
+      {
+        "TextEntryId": "SingleUseId2",
+        "IsResource": false
+      },
+      {
+        "TextEntryId": "SingleUseId3",
+        "IsResource": false
+      },
+      {
+        "TextEntryId": "SingleUseId4",
+        "IsResource": false
+      },
+      {
+        "TextEntryId": "SingleUseId5",
+        "IsResource": false
+      },
+      {
+        "TextEntryId": "SingleUseId6",
+        "IsResource": false
+      },
+      {
+        "TextEntryId": "SingleUseId7",
+        "IsResource": false
+      },
+      {
+        "TextEntryId": "SingleUseId8",
+        "IsResource": false
+      },
+      {
+        "TextEntryId": "SingleUseId17",
+        "IsResource": false
+      },
+      {
+        "TextEntryId": "SingleUseId16",
+        "IsResource": false
+      },
+      {
+        "TextEntryId": "SingleUseId15",
+        "IsResource": false
+      },
+      {
+        "TextEntryId": "SingleUseId14",
+        "IsResource": false
+      },
+      {
+        "TextEntryId": "SingleUseId13",
+        "IsResource": false
+      },
+      {
+        "TextEntryId": "SingleUseId12",
+        "IsResource": false
+      },
+      {
+        "TextEntryId": "SingleUseId11",
+        "IsResource": false
+      },
+      {
+        "TextEntryId": "SingleUseId10",
+        "IsResource": false
+      },
+      {
+        "TextEntryId": "SingleUseId18",
+        "IsResource": false
+      },
+      {
+        "TextEntryId": "SingleUseId19",
+        "IsResource": false
+      },
+      {
+        "TextEntryId": "SingleUseId21",
+        "IsResource": false
+      },
+      {
+        "TextEntryId": "SingleUseId22",
+        "IsResource": false
+      },
+      {
+        "TextEntryId": "SingleUseId23",
+        "IsResource": false
+      },
+      {
+        "TextEntryId": "SingleUseId24",
+        "IsResource": false
+      },
+      {
+        "TextEntryId": "SingleUseId25",
+        "IsResource": false
+      },
+      {
+        "TextEntryId": "SingleUseId26",
+        "IsResource": false
+      },
+      {
+        "TextEntryId": "SingleUseId27",
+        "IsResource": false
+      },
+      {
+        "TextEntryId": "SingleUseId28",
+        "IsResource": false
+      }
+    ],
+    "Name": "OpenVentilator",
+    "Resolution": {
+      "Width": 480,
+      "Height": 272
+    },
+    "SelectedColorDepth": 24,
+    "StartupScreenName": "Screen2",
+    "SelectedStartupLanguage": "EN",
+    "Skin": "Blue",
+    "TouchGfxPath": "../Middlewares/ST/touchgfx",
+    "UIPath": ".",
+    "AvailableColorDepths": [
+      24
+    ],
+    "AvailableLCDs": {
+      "24": "LCD24bpp"
+    },
+    "AvailableSections": [
+      "ExtFlashSection",
+      "IntFlashSection"
+    ],
+    "AvailableResolutions": [
+      {
+        "Width": 480,
+        "Height": 272
+      }
+    ],
+    "PhysicalButtons": [],
+    "FrameworkFeatures": {
+      "LCD24bpp": {
+        "Id": "LCD24bpp",
+        "IsEnabled": true
+      }
+    },
+    "GenerateAssetsCommand": "make -f simulator/gcc/Makefile assets -j8",
+    "PostGenerateCommand": "touchgfx update_project --project-file=simulator/msvs/Application.vcxproj",
+    "PostGenerateTargetCommand": "touchgfx update_project --project-file=../OpenVentilator.ioc --platform=m7",
+    "CompileSimulatorCommand": "make -f simulator/gcc/Makefile -j8",
+    "RunSimulatorCommand": "build\\bin\\simulator.exe",
+    "LandscapeSkinX": 0,
+    "LandscapeSkinY": 0,
+    "PortraitSkinX": 0,
+    "PortraitSkinY": 0,
+    "DisplayOrientation": "Landscape"
+  },
+  "Version": "4.13.0"
+}
