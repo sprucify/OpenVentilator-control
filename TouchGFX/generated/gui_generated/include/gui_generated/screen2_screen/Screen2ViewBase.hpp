@@ -14,7 +14,6 @@
 #include <touchgfx/widgets/TextArea.hpp>
 #include <touchgfx/containers/progress_indicators/TextProgress.hpp>
 #include <touchgfx/widgets/ScalableImage.hpp>
-#include <touchgfx/widgets/Image.hpp>
 #include <touchgfx/containers/ModalWindow.hpp>
 #include <touchgfx/Color.hpp>
 #include <touchgfx/widgets/TextAreaWithWildcard.hpp>
@@ -80,7 +79,6 @@ protected:
     touchgfx::TextArea textArea2_1;
     touchgfx::ScalableImage scalableImage1_1;
     touchgfx::ScalableImage scalableImage2;
-    touchgfx::Image image1;
     touchgfx::ModalWindow modalWindow1;
     touchgfx::ButtonWithLabel buttonWithLabel4;
     touchgfx::ButtonWithLabel buttonWithLabel4_1;

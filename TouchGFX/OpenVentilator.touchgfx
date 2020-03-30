@@ -465,21 +465,6 @@
                     "Clickable": false,
                     "Fadeable": false,
                     "Moveable": false
-                  },
-                  {
-                    "RelativeFilename": "KLTxksHb.png",
-                    "Alpha": 255,
-                    "Name": "image1",
-                    "X": 160,
-                    "Y": 82,
-                    "Width": 240,
-                    "Height": 106,
-                    "Type": "Image",
-                    "Visible": true,
-                    "Draggable": false,
-                    "Clickable": false,
-                    "Fadeable": false,
-                    "Moveable": false
                   }
                 ],
                 "IsCacheableContainer": false,

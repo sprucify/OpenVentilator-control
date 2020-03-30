@@ -141,10 +141,6 @@ Screen2ViewBase::Screen2ViewBase() :
     scalableImage2.setPosition(26, 68, 70, 65);
     scalableImage2.setScalingAlgorithm(touchgfx::ScalableImage::NEAREST_NEIGHBOR);
     swipeContainer1Page3.add(scalableImage2);
-
-    image1.setXY(160, 82);
-    image1.setBitmap(touchgfx::Bitmap(BITMAP_KLTXKSHB_ID));
-    swipeContainer1Page3.add(image1);
     swipeContainer1.add(swipeContainer1Page3);
     swipeContainer1.setSelectedPage(1);
 

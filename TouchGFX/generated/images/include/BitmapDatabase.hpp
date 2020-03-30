@@ -22,7 +22,6 @@ const uint16_t BITMAP_BLUE_TEXTFIELDS_TEXT_FIELD_FULL_480X272PX_ID = 11;
 const uint16_t BITMAP_DARK_ICONS_ALERT_32_ID = 12;
 const uint16_t BITMAP_DARK_ICONS_SETTINGS_32_ID = 13;
 const uint16_t BITMAP_IMG_225476_ID = 14;
-const uint16_t BITMAP_KLTXKSHB_ID = 15;
 
 namespace BitmapDatabase
 {
